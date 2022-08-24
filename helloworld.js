@@ -1,3 +1,3 @@
-console.log("Hello world")
-console.log("Olá mundo")
-console.log("Ciao Mondo")
+let numero1 = 200
+let numero2 = 100
+console.log(numero1 + numero2)
